@@ -1,1 +1,1 @@
-# .github
+# KongPaymo fictional cash payment system
